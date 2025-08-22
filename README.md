@@ -47,6 +47,15 @@
 ---
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manjusri-shanmugakumar-9a761b28a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wsplportfolio.netlify.app/)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjusri6526@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/manjusri-shanmugakumar-9a761b28a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://wsplportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:manjusri6526@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
