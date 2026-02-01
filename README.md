@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/manjusri-shanmugakumar-9a761b28a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://wsplportfolio.netlify.app/">
+  <a href="https://manjusri-about.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:manjusri6526@gmail.com">
